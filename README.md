@@ -17,6 +17,8 @@ Learn how to create a table and populate a table from JSON data
 [Building a smart data table in React](https://blog.logrocket.com/complete-guide-building-smart-data-table-react/)  
 [How to display data using the DigitalOcean API with React](https://www.digitalocean.com/community/tutorials/how-to-display-data-from-the-digitalocean-api-with-react)  
 [Create a custom dynamic table in ReactJS](https://dev.to/abdulbasit313/an-easy-way-to-create-a-customize-dynamic-table-in-react-js-3igg)   
+[Create Dynamic Table from json in react js](https://medium.com/@subalerts/create-dynamic-table-from-json-in-react-js-1a4a7b1146ef)
+[How to Create Dynamic Tables from Editable Columns in React HTML](https://www.pluralsight.com/guides/dynamic-tables-from-editable-columns-in-react-html)
 
 ## Available Scripts
 In the project directory, you can run:
