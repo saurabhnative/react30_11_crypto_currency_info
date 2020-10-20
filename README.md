@@ -11,10 +11,12 @@ Build a table listing data about various cryptocurrencies
 [Coin Lore APIs](https://www.coinlore.com/cryptocurrency-data-api)
 
 ### Learnings:
-Learn how to create a table and populate a table from JSON data
-[Building a smart data table in React](https://blog.logrocket.com/complete-guide-building-smart-data-table-react/)
-[How to display data using the DigitalOcean API with React](https://www.digitalocean.com/community/tutorials/how-to-display-data-from-the-digitalocean-api-with-react)
-[Create a custom dynamic table in ReactJS](https://dev.to/abdulbasit313/an-easy-way-to-create-a-customize-dynamic-table-in-react-js-3igg)
+Learn how to create a table and populate a table from JSON data  
+
+### Learning Resources   
+[Building a smart data table in React](https://blog.logrocket.com/complete-guide-building-smart-data-table-react/)  
+[How to display data using the DigitalOcean API with React](https://www.digitalocean.com/community/tutorials/how-to-display-data-from-the-digitalocean-api-with-react)  
+[Create a custom dynamic table in ReactJS](https://dev.to/abdulbasit313/an-easy-way-to-create-a-customize-dynamic-table-in-react-js-3igg)   
 
 ## Available Scripts
 In the project directory, you can run:
