@@ -1,6 +1,6 @@
 # react30_11_crypto_currency_information_app
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Create a table which lists various crypto currencies from API
 
@@ -54,6 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://www.londontran.com"><img src="https://avatars2.githubusercontent.com/u/55134653?v=4" width="100px;" alt=""/><br /><sub><b>London Tran</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_11_crypto_currency_info/commits?author=LondonTran" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/sarita1124"><img src="https://avatars0.githubusercontent.com/u/54797295?v=4" width="100px;" alt=""/><br /><sub><b>Sarita Kumari</b></sub></a><br /><a href="https://github.com/codeclassifiers/react30_11_crypto_currency_info/commits?author=sarita1124" title="Documentation">📖</a></td>
   </tr>
 </table>
 
