@@ -20,6 +20,10 @@ Learn how to create a table and populate a table from JSON data
 [Create Dynamic Table from json in react js](https://medium.com/@subalerts/create-dynamic-table-from-json-in-react-js-1a4a7b1146ef)    
 [How to Create Dynamic Tables from Editable Columns in React HTML](https://www.pluralsight.com/guides/dynamic-tables-from-editable-columns-in-react-html)
 
+### Solutions  
+[Solution 1](https://github.com/codeclassifiers/react30_11_crypto_currency_info/tree/master/solution_1)  
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1603684898/Blogimages/Untitled_xemcip.gif" /> 
+
 ## Available Scripts
 In the project directory, you can run:
 
